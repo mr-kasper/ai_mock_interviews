@@ -1,9 +1,4 @@
 <div align="center">
-  <br />
-    <a href="https://www.youtube.com/watch?v=8GK8R77Bd7g" target="_blank">
-      <img src="https://github.com/user-attachments/assets/1c0131c7-9f2d-4e3b-b47c-9679e76d8f9a" alt="Project Banner">
-    </a>
-  <br />
 
   <div>
     <img src="https://img.shields.io/badge/-Next.JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=black" alt="next.js" />
@@ -51,3 +46,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 👉 **Responsiveness**: Fully responsive design that works seamlessly across devices.
 
 and many more, including code architecture and reusability
+
+## Deployment
+
+[Live Demo](https://ai-mock-interviews-coral.vercel.app/)
